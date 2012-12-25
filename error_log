@@ -1,0 +1,3 @@
+[09-Aug-2012 03:23:45 UTC] PHP Fatal error:  Call to undefined method CI_Model::CI_Model() in /home/veronzhg/public_html/venturelateral.com/codeIgniter/application/models/gallery_model.php on line 8
+[09-Aug-2012 03:24:24 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/veronzhg/public_html/venturelateral.com/codeIgniter/application/models/gallery_model.php on line 11
+[09-Aug-2012 03:25:03 UTC] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/veronzhg/public_html/venturelateral.com/codeIgniter/application/views/gallery.php on line 20
