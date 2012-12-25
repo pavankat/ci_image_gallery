@@ -3,8 +3,9 @@ Code Igniter Framework. It's an Image Gallery.
 
 Relevant files here:
 
-[https://github.com/pavankat/ci_image_gallery/blob/master/application/controllers/gallery.php](Gallery Controller)
+[Gallery Controller](https://github.com/pavankat/ci_image_gallery/blob/master/application/controllers/gallery.php)
 
-[https://github.com/pavankat/ci_image_gallery/blob/master/application/models/gallery_model.php](Gallery Model)
 
-[https://github.com/pavankat/ci_image_gallery/blob/master/application/views/gallery.php](Gallery View)
+[Gallery Model](https://github.com/pavankat/ci_image_gallery/blob/master/application/models/gallery_model.php)
+
+[Gallery View](https://github.com/pavankat/ci_image_gallery/blob/master/application/views/gallery.php)
